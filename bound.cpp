@@ -42,9 +42,9 @@ int lastocuurence(int arr[],int n,int key){
     return ans;
 }
 
-int main(){
-    int eve[5]={1,2,3,3,4};
-    cout<<"first occurence of 3 is"<<firstocuurence(eve,5,3)<<endl;
-    cout<<"last occurence of 3 is "<<lastocuurence(eve,5,3)<<endl;
-    return 0;
-}
+// int main(){
+//     int eve[5]={1,2,3,3,4};
+//     cout<<"first occurence of 3 is"<<firstocuurence(eve,5,3)<<endl;
+//     cout<<"last occurence of 3 is "<<lastocuurence(eve,5,3)<<endl;
+//     return 0;
+// }
